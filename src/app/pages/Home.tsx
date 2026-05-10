@@ -477,15 +477,15 @@ export function Home() {
                 Get In Touch
               </h3>
               <div className="space-y-3">
-                <a href="mailto:your.email@example.com" className="flex items-center gap-3 text-foreground/70 hover:text-cyan-400 transition-colors">
+                <a href="mailto:ysahu1590@gmail.com" className="flex items-center gap-3 text-foreground/70 hover:text-cyan-400 transition-colors">
                   <Mail className="w-5 h-5" />
-                  <span>your.email@example.com</span>
+                  <span>ysahu1590@gmail.com</span>
                 </a>
-                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground/70 hover:text-cyan-400 transition-colors">
+                <a href="https://github.com/yashukaSan" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground/70 hover:text-cyan-400 transition-colors">
                   <Github className="w-5 h-5" />
                   <span>GitHub</span>
                 </a>
-                <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground/70 hover:text-cyan-400 transition-colors">
+                <a href="https://linkedin.com/in/yogesh-s-12637232b" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-foreground/70 hover:text-cyan-400 transition-colors">
                   <Linkedin className="w-5 h-5" />
                   <span>LinkedIn</span>
                 </a>
