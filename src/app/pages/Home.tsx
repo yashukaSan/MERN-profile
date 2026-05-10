@@ -32,15 +32,15 @@ export function Home() {
 
   const education = [
     {
-      degree: "Bachelor of Technology in Computer Science",
-      institution: "University Name",
-      period: "2022 - 2026",
-      description: "Focused on software engineering, data structures, and web technologies.",
+      degree: "Bachelor of Computer Application (BCA)",
+      institution: "S.R. College of Professional Studies",
+      period: "2024 - 2027",
+      description: "Focused on Software Engineering, Data Structures, and Web Technologies.",
     },
     {
       degree: "Higher Secondary Education",
-      institution: "School Name",
-      period: "2020 - 2022",
+      institution: "kendriya vidyalaya Datia",
+      period: "2022 - 2024",
       description: "Science stream with focus on Mathematics and Computer Science.",
     },
   ];
